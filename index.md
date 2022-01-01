@@ -19,7 +19,7 @@ happy to talk about education, programming languages, cycling, and more.
 That's probably an understatement. Here are some of my favorite projects:
 
 * [shru.gg](https://shru.gg), a website built just so I would have to stop
-  finding, copying, and pasting that shrug emoji
+  finding, copying, and pasting that shrug emoticon
 * [Cinder](https://github.com/facebookincubator/cinder), Instagram's
   performance-oriented fork of CPython
 * [Skybison](https://github.com/tekknolagi/skybison) (fork of
